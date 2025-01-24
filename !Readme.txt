@@ -1,6 +1,5 @@
 ~~~ Useful Unity Systems By Enfity ~~~
-
-
+ПИЗДА
 
 - This is a folder with useful systems for Unity, written and frequently used by me.
 - I admit the possibility of improving the written code and changing my mechanics for your needs.
