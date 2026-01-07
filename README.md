@@ -15,16 +15,15 @@ I admit the possibility of improving the written code and changing my mechanics 
 9. SimpleShooting - this is the code for a simple physical shooting system for your game.
 10. SliderSoundSystem - this system allows you to control the volume of each type of game sounds. Each type of game sound can contain multiple AudioSources.
 11. SmoothMovementWithRotation - this script allows you to create a flying game object form one point to another (the original game object also performs a smooth rotation to the target point).
-12. StringTimer - converter from int format to "string time" format (you can use this method for timers or clocks in your game).
+12. StringTimer - converter from integer format to "string time" format (you can use this methods for timers or clocks in your game).
 13. TryGetUniqueValue - this method tries to minimize duplication of a random int value from the range [minValue, maxValue).
 14. VRCameraOffsetFix - this script allows you to quickly solve the problem with the incorrect VR camera offset in the game build (this problem was noticed on Oculus Quest 2 due to incorrect settings of the play zone).
 15. XRGrabInteractableExtra - use this script instead of the original "XR Grab Interactable" component to control the "grab/drop" and "HoverEnter/HoverExit" processes.
 
 <br>
-Contacts:<br>
-enfity.games@gmail.com<br>
-[YouTube](https://www.youtube.com/@enfity)<br>
-[Telegram](https://t.me/enfity_games)<br>
-[Donation](https://www.donationalerts.com/r/enfity)<br>
-[Itch.io](https://enfity.itch.io/)<br>
-[GitHub](https://github.com/EnfityBro)<br>
+Contact me: enfity.games@gmail.com<br>
+YouTube: https://www.youtube.com/@enfity<br>
+Telegram: https://t.me/enfity_games<br>
+Donation: https://www.donationalerts.com/r/enfity<br>
+Itch.io: https://enfity.itch.io/<br>
+GitHub: https://github.com/EnfityBro<br>
