@@ -23,6 +23,8 @@
 
 - **LanguageText** - this script allows you to create a simple text translation system for other languages in your game.
 
+- **ListExtensions** - this class provides extension methods for lists, including shuffling.
+
 - **ObjectPool** - a class for managing an objects pool. Supports working with component classes only.
 
 - **ObjectsConcealer** - contains the **SetRenderingForGameObjectsByLayerIndex** which sets the rendering ability of a game object with a specified layer index.
