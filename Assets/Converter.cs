@@ -13,6 +13,14 @@ namespace Enfity.UsefulUnitySystems
         }
 
         /// <summary>
+        /// Converts a logarithmic decibels (-80dB to 0dB) to linear value (0-1).
+        /// </summary>
+        public static float DecibelsToLinearValue(float decibels)
+        {
+            return Mathf.Pow(10f, Mathf.Max(decibels, -80f) / 20f);
+        }
+
+        /// <summary>
         /// Converts a Quaternion rotation to Euler angles in degrees, normalized to the range [-180, 180].
         /// </summary>
         public static Vector3 QuaternionRotationToDegreesAngle(Quaternion rotation)
